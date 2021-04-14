@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Bruins",
+    "city": "Boston",
+    "foundingYear": "1924",
+    "wins": "49",
+    "losses": "24" 
+  },
+  {
+    "name": "Canadiens",
+    "city": "Montreal",
+    "foundingYear": "1909",
+    "wins": "44",
+    "losses": "30"
+  },
+  {
+    "name": "Blues",
+    "city": "St Louis",
+    "foundingYear": "1967",
+    "wins": "45",
+    "losses": "28"
+  }
+
+]

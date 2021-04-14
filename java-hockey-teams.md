@@ -1,0 +1,5 @@
+- Create an ArrayList of all the team names
+- Create an ArrayList of all team names founded before 1930
+- Create a HashMap of each team's founding year
+- Find the team with the most amount of wins
+- Find the team with the most amount of losses
